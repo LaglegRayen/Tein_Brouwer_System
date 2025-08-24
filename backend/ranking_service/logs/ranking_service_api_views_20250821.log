@@ -1,0 +1,44 @@
+2025-08-21 19:51:25,898 - ranking_service_api_views - INFO - === Quick Check Request Details ===
+2025-08-21 19:51:25,903 - ranking_service_api_views - INFO - User: laglegrayen@gmail.com
+2025-08-21 19:51:25,909 - ranking_service_api_views - INFO - Authenticated: True
+2025-08-21 19:51:25,911 - ranking_service_api_views - INFO - Username: laglegrayen@gmail.com
+2025-08-21 19:51:25,911 - ranking_service_api_views - INFO - Session ID: on89g4ehg6lvwuzlow9vaynte62k5jep
+2025-08-21 19:51:25,911 - ranking_service_api_views - INFO - Method: POST
+2025-08-21 19:51:25,916 - ranking_service_api_views - INFO - Headers:
+2025-08-21 19:51:25,916 - ranking_service_api_views - INFO -   Content-Length: 82
+2025-08-21 19:51:25,916 - ranking_service_api_views - INFO -   Content-Type: application/json
+2025-08-21 19:51:25,916 - ranking_service_api_views - INFO -   Host: localhost:8000
+2025-08-21 19:51:25,919 - ranking_service_api_views - INFO -   Connection: keep-alive
+2025-08-21 19:51:25,920 - ranking_service_api_views - INFO -   Sec-Ch-Ua-Platform: "Windows"
+2025-08-21 19:51:25,925 - ranking_service_api_views - INFO -   X-Csrftoken: VzQ2rJ5yFsXrTipDmsvv1US8o0nUNym2vewmxV6K7YlYGHHfsww1lqLjgtQIjX6Z
+2025-08-21 19:51:25,925 - ranking_service_api_views - INFO -   Sec-Ch-Ua: "Not;A=Brand";v="99", "Microsoft Edge";v="139", "Chromium";v="139"
+2025-08-21 19:51:25,925 - ranking_service_api_views - INFO -   Sec-Ch-Ua-Mobile: ?0
+2025-08-21 19:51:25,928 - ranking_service_api_views - INFO -   X-Requested-With: XMLHttpRequest
+2025-08-21 19:51:25,932 - ranking_service_api_views - INFO -   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0
+2025-08-21 19:51:25,934 - ranking_service_api_views - INFO -   Accept: application/json, text/plain, */*
+2025-08-21 19:51:25,936 - ranking_service_api_views - INFO -   Origin: http://localhost:3000
+2025-08-21 19:51:25,936 - ranking_service_api_views - INFO -   Sec-Fetch-Site: same-site
+2025-08-21 19:51:25,942 - ranking_service_api_views - INFO -   Sec-Fetch-Mode: cors
+2025-08-21 19:51:25,946 - ranking_service_api_views - INFO -   Sec-Fetch-Dest: empty
+2025-08-21 19:51:25,948 - ranking_service_api_views - INFO -   Referer: http://localhost:3000/
+2025-08-21 19:51:25,953 - ranking_service_api_views - INFO -   Accept-Encoding: gzip, deflate, br, zstd
+2025-08-21 19:51:25,966 - ranking_service_api_views - INFO -   Accept-Language: en-US,en;q=0.9,fr;q=0.8,ar;q=0.7
+2025-08-21 19:51:25,969 - ranking_service_api_views - INFO -   Cookie: rl_page_init_referrer=RudderEncrypt%3AU2FsdGVkX19B23YcOTjgashAdzLjXaBpoO6td9bYC3E%3D; rl_page_init_referring_domain=RudderEncrypt%3AU2FsdGVkX19jT2cKpHBhM%2FkS680T6VeUxgCZsZoVCac%3D; n8n-auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM5NWFhNDczLWM2ZTYtNGRlOS05YzdmLTZjMzI0ZTkzYjIzNCIsImhhc2giOiI3ejhiVDM4SFJwIiwiYnJvd3NlcklkIjoiOVBtNHRQUHJJWHJEUTJ4QnpZaHoxWmxsTjR2aEV4YWNQT1hiMlZlU3ZUOD0iLCJ1c2VkTWZhIjpmYWxzZSwiaWF0IjoxNzU1NDQ0NzQ5LCJleHAiOjE3NTYwNDk1NDl9._DduGtuKFKjYK4uKTuiYQiT0efYsPPIPWjbEWsBNCHc; sessionid=on89g4ehg6lvwuzlow9vaynte62k5jep; rl_anonymous_id=RudderEncrypt%3AU2FsdGVkX187zx%2FdcNf8uWho%2F%2B3uvoR%2BGOBUoBSLR8pftwE7OI0OaIvbEqhR%2FSovnIzgrYok4CsrahQimi%2Fwow%3D%3D; rl_user_id=RudderEncrypt%3AU2FsdGVkX1%2Br3YfrZb9wVS8GxSESHos6VQgdjfTCzqMEb8V%2BviyI%2BXWTRpQZDemlcsRd%2BZK8BCme5OJWPo8Wyrup4JOQQqNKMCmqtlZomn294hnXRcnSOM4hFFuiKfEVl7pPIbZzaHclxE31Y1qpt1dn7or%2FJpHWFLJRLpgkQDY%3D; rl_trait=RudderEncrypt%3AU2FsdGVkX1%2Bgg8ZNZOCQNjOtj5%2FkyH%2FBaaLdlAnJquoHcKuBlUSqFSr2d%2BtsYuXXDpsLZ9GhampXwfcqXNYCH2Po1tbaOu6XFCB2yYf95F4zp79Kfi80IK9o2ctOYDlj0bNk6p3qX0ypnoW9lG0Jmg%3D%3D; ph_phc_4URIAm1uYfJO7j8kWSe0J8lc8IqnstRLS7Jx8NcakHo_posthog=%7B%22distinct_id%22%3A%229aefcb2f7769a562743c8e35dc9bc6515515622912164f8099e13034364c66e1%23c95aa473-c6e6-4de9-9c7f-6c324e93b234%22%2C%22%24sesid%22%3A%5B1755686635462%2C%220198c712-8db7-7162-8cdb-2e72401d66df%22%2C1755686538678%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22%24direct%22%2C%22u%22%3A%22http%3A%2F%2Flocalhost%3A5678%2Fsetup%22%7D%7D; rl_session=RudderEncrypt%3AU2FsdGVkX19ZTB5kNMnT95mFn3qGe2FB4vdFLf9oenVH8%2B4EnFcAUc6l1U82P9MlhDcqdcMpt3SL7Pl8b%2BxfQJ%2FF7uOrGsVtGdyjBAc9zRewsBUrmL7s1VAwMzndXLuugtIMg0VNLEUkvk93w2i%2BTg%3D%3D; csrftoken=KPQugmbmCGyHXzsMgebGuG3l2DDYGzU7
+2025-08-21 19:51:25,981 - ranking_service_api_views - INFO - Data:
+2025-08-21 19:51:25,981 - ranking_service_api_views - INFO -   {'business_name': 'restaurant', 'business_lat': 36.8301732, 'business_lng': 10.0949113}
+2025-08-21 19:51:25,981 - ranking_service_api_views - INFO - Cookies:
+2025-08-21 19:51:25,986 - ranking_service_api_views - INFO -   rl_page_init_referrer: RudderEncrypt%3AU2FsdGVkX19B23YcOTjgashAdzLjXaBpoO6td9bYC3E%3D
+2025-08-21 19:51:25,996 - ranking_service_api_views - INFO -   rl_page_init_referring_domain: RudderEncrypt%3AU2FsdGVkX19jT2cKpHBhM%2FkS680T6VeUxgCZsZoVCac%3D
+2025-08-21 19:51:25,998 - ranking_service_api_views - INFO -   n8n-auth: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM5NWFhNDczLWM2ZTYtNGRlOS05YzdmLTZjMzI0ZTkzYjIzNCIsImhhc2giOiI3ejhiVDM4SFJwIiwiYnJvd3NlcklkIjoiOVBtNHRQUHJJWHJEUTJ4QnpZaHoxWmxsTjR2aEV4YWNQT1hiMlZlU3ZUOD0iLCJ1c2VkTWZhIjpmYWxzZSwiaWF0IjoxNzU1NDQ0NzQ5LCJleHAiOjE3NTYwNDk1NDl9._DduGtuKFKjYK4uKTuiYQiT0efYsPPIPWjbEWsBNCHc
+2025-08-21 19:51:26,000 - ranking_service_api_views - INFO -   sessionid: on89g4ehg6lvwuzlow9vaynte62k5jep
+2025-08-21 19:51:26,002 - ranking_service_api_views - INFO -   rl_anonymous_id: RudderEncrypt%3AU2FsdGVkX187zx%2FdcNf8uWho%2F%2B3uvoR%2BGOBUoBSLR8pftwE7OI0OaIvbEqhR%2FSovnIzgrYok4CsrahQimi%2Fwow%3D%3D
+2025-08-21 19:51:26,008 - ranking_service_api_views - INFO -   rl_user_id: RudderEncrypt%3AU2FsdGVkX1%2Br3YfrZb9wVS8GxSESHos6VQgdjfTCzqMEb8V%2BviyI%2BXWTRpQZDemlcsRd%2BZK8BCme5OJWPo8Wyrup4JOQQqNKMCmqtlZomn294hnXRcnSOM4hFFuiKfEVl7pPIbZzaHclxE31Y1qpt1dn7or%2FJpHWFLJRLpgkQDY%3D
+2025-08-21 19:51:26,016 - ranking_service_api_views - INFO -   rl_trait: RudderEncrypt%3AU2FsdGVkX1%2Bgg8ZNZOCQNjOtj5%2FkyH%2FBaaLdlAnJquoHcKuBlUSqFSr2d%2BtsYuXXDpsLZ9GhampXwfcqXNYCH2Po1tbaOu6XFCB2yYf95F4zp79Kfi80IK9o2ctOYDlj0bNk6p3qX0ypnoW9lG0Jmg%3D%3D
+2025-08-21 19:51:26,020 - ranking_service_api_views - INFO -   ph_phc_4URIAm1uYfJO7j8kWSe0J8lc8IqnstRLS7Jx8NcakHo_posthog: %7B%22distinct_id%22%3A%229aefcb2f7769a562743c8e35dc9bc6515515622912164f8099e13034364c66e1%23c95aa473-c6e6-4de9-9c7f-6c324e93b234%22%2C%22%24sesid%22%3A%5B1755686635462%2C%220198c712-8db7-7162-8cdb-2e72401d66df%22%2C1755686538678%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22%24direct%22%2C%22u%22%3A%22http%3A%2F%2Flocalhost%3A5678%2Fsetup%22%7D%7D
+2025-08-21 19:51:26,028 - ranking_service_api_views - INFO -   rl_session: RudderEncrypt%3AU2FsdGVkX19ZTB5kNMnT95mFn3qGe2FB4vdFLf9oenVH8%2B4EnFcAUc6l1U82P9MlhDcqdcMpt3SL7Pl8b%2BxfQJ%2FF7uOrGsVtGdyjBAc9zRewsBUrmL7s1VAwMzndXLuugtIMg0VNLEUkvk93w2i%2BTg%3D%3D
+2025-08-21 19:51:26,028 - ranking_service_api_views - INFO -   csrftoken: KPQugmbmCGyHXzsMgebGuG3l2DDYGzU7
+2025-08-21 19:51:26,033 - ranking_service_api_views - INFO - Session data:
+2025-08-21 19:51:26,035 - ranking_service_api_views - INFO -   _auth_user_id: 12
+2025-08-21 19:51:26,042 - ranking_service_api_views - INFO -   _auth_user_backend: django.contrib.auth.backends.ModelBackend
+2025-08-21 19:51:26,049 - ranking_service_api_views - INFO -   _auth_user_hash: 8517e0c7ad96dafb970bc2a2e5a00655f35f5a1c3a090032cc0652d5e4da6b17
+2025-08-21 19:51:26,865 - ranking_service_api_views - ERROR - Quick check failed: Could not connect to DataForSEO API. Please check your internet connection and API status.

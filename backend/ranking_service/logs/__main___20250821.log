@@ -1,0 +1,87 @@
+2025-08-21 17:09:13,289 - __main__ - INFO - Starting Local Ranking Grid Service Tests
+2025-08-21 17:09:13,289 - __main__ - INFO - ========================================
+2025-08-21 17:09:13,289 - __main__ - INFO - 
+Running Quick Check test...
+2025-08-21 17:09:13,289 - __main__ - INFO - === Testing Quick Check Flow ===
+2025-08-21 17:09:13,289 - __main__ - INFO - User entered business: Pizza Restaurant NYC
+2025-08-21 17:09:13,289 - __main__ - INFO - Location: 40.689199, -73.975035
+2025-08-21 17:09:13,289 - __main__ - INFO - User clicked 'Run Quick Check' button
+2025-08-21 17:11:39,723 - __main__ - INFO - Quick check completed in 146.43 seconds
+2025-08-21 17:11:39,723 - __main__ - INFO - Results summary:
+2025-08-21 17:11:39,723 - __main__ - INFO - - Completed tasks: 9
+2025-08-21 17:11:39,723 - __main__ - INFO - - Failed tasks: 0
+2025-08-21 17:11:39,723 - __main__ - INFO - - Pending tasks: 0
+2025-08-21 17:11:41,726 - __main__ - INFO - 
+Running Advanced Check test...
+2025-08-21 17:11:41,726 - __main__ - INFO - 
+=== Testing Advanced Check Flow ===
+2025-08-21 17:11:41,726 - __main__ - INFO - User entered business: Coffee Shop Brooklyn
+2025-08-21 17:11:41,726 - __main__ - INFO - Location: 40.692278, -73.96826
+2025-08-21 17:11:41,726 - __main__ - INFO - Grid: 4x4, Radius: 3.0km
+2025-08-21 17:11:41,730 - __main__ - INFO - User clicked 'Run Advanced Check' button
+2025-08-21 17:14:21,493 - __main__ - INFO - Advanced check completed in 159.76 seconds
+2025-08-21 17:14:21,494 - __main__ - INFO - Results summary:
+2025-08-21 17:14:21,495 - __main__ - INFO - - Completed tasks: 16
+2025-08-21 17:14:21,495 - __main__ - INFO - - Failed tasks: 0
+2025-08-21 17:14:21,495 - __main__ - INFO - - Pending tasks: 0
+2025-08-21 17:14:23,515 - __main__ - INFO - 
+Running Split Workflow test...
+2025-08-21 17:14:23,519 - __main__ - INFO - 
+=== Testing Split Workflow ===
+2025-08-21 17:14:23,520 - __main__ - INFO - User entered business: Italian Restaurant Manhattan
+2025-08-21 17:14:23,521 - __main__ - INFO - Location: 40.721311, -73.996891
+2025-08-21 17:14:23,535 - __main__ - INFO - User clicked 'Create Tasks' button
+2025-08-21 17:14:27,543 - __main__ - INFO - Created 9 tasks
+2025-08-21 17:14:27,544 - __main__ - INFO - Generated 9 grid points
+2025-08-21 17:14:27,547 - __main__ - INFO - 
+User checking task status...
+2025-08-21 17:14:39,288 - __main__ - INFO - Current status: {'status': 'success', 'task_count': 9, 'task_status': {'completed': 0, 'failed': 0, 'pending': 9, 'unknown': 0, 'total': 9}, 'timestamp': '2025-08-21T17:14:39.288177'}
+2025-08-21 17:14:39,289 - __main__ - INFO - 
+User clicked 'Get Results' button
+2025-08-21 17:16:08,052 - __main__ - INFO - Results fetched in 88.76 seconds
+2025-08-21 17:16:08,052 - __main__ - INFO - Results summary:
+2025-08-21 17:16:08,052 - __main__ - INFO - - Completed tasks: 9
+2025-08-21 17:16:08,052 - __main__ - INFO - - Failed tasks: 0
+2025-08-21 17:16:08,052 - __main__ - INFO - - Pending tasks: 0
+2025-08-21 17:16:10,060 - __main__ - INFO - 
+Running Service Info test...
+2025-08-21 17:16:10,063 - __main__ - INFO - 
+=== Testing Service Info ===
+2025-08-21 17:16:10,595 - __main__ - INFO - Service Information:
+2025-08-21 17:16:10,595 - __main__ - INFO - - Version: 2.0.0
+2025-08-21 17:16:10,598 - __main__ - INFO - - Status: active
+2025-08-21 17:16:10,600 - __main__ - INFO - - Credentials: Configured
+2025-08-21 17:16:10,600 - __main__ - INFO - - API Connection: not working
+2025-08-21 17:16:12,604 - __main__ - INFO - 
+=== Test Results Summary ===
+2025-08-21 17:16:12,627 - __main__ - INFO - 
+Total Tests: 4
+2025-08-21 17:16:12,633 - __main__ - INFO - Passed: 4
+2025-08-21 17:16:12,635 - __main__ - INFO - Failed: 0
+2025-08-21 19:57:47,573 - __main__ - INFO - Testing DataForSEO credentials...
+2025-08-21 19:57:47,573 - __main__ - INFO - Got credentials - Username: rayen.lagleg@aimationation.com
+2025-08-21 21:54:20,120 - __main__ - INFO - Testing DataForSEO credentials...
+2025-08-21 21:54:20,120 - __main__ - INFO - Got credentials - Username: rayen.lagleg@aimationation.com
+2025-08-21 21:57:46,100 - __main__ - INFO - === Testing DataForSEO Credentials ===
+2025-08-21 21:57:46,100 - __main__ - INFO - Got credentials - Username: rayen.lagleg@aimationation.com
+2025-08-21 21:57:46,107 - __main__ - INFO - 
+Testing API connection...
+2025-08-21 21:57:46,107 - __main__ - INFO - 
+Testing endpoint: https://api.dataforseo.com/v3/merchant/google/locations
+2025-08-21 21:57:51,315 - __main__ - INFO - Status code: 200
+2025-08-21 21:59:51,190 - __main__ - INFO - 
+Testing endpoint: https://api.dataforseo.com/v3/merchant/google/my_business_info/task_post
+2025-08-21 21:59:51,633 - __main__ - INFO - Status code: 404
+2025-08-21 21:59:51,857 - __main__ - INFO - Response data: {'version': '0.1.20250812', 'status_code': 40400, 'status_message': 'Not Found.', 'time': '0 sec.', 'cost': 0, 'tasks_count': 0, 'tasks_error': 0, 'tasks': None}
+2025-08-21 22:03:07,590 - __main__ - INFO - === Testing DataForSEO Credentials ===
+2025-08-21 22:03:07,590 - __main__ - INFO - Got credentials - Username: rayen.lagleg@aimationation.com
+2025-08-21 22:03:07,601 - __main__ - INFO - 
+Testing API connection...
+2025-08-21 22:03:07,601 - __main__ - INFO - 
+Testing endpoint: https://api.dataforseo.com/v3/serp/google/organic/task_post
+2025-08-21 22:03:08,016 - __main__ - INFO - Status code: 200
+2025-08-21 22:03:08,016 - __main__ - INFO - Response data: {'version': '0.1.20250812', 'status_code': 20000, 'status_message': 'Ok.', 'time': '0.0408 sec.', 'cost': 0.0006, 'tasks_count': 1, 'tasks_error': 0, 'tasks': [{'id': '08220003-1062-0066-0000-71103326aada', 'status_code': 20100, 'status_message': 'Task Created.', 'time': '0.0058 sec.', 'cost': 0.0006, 'result_count': 0, 'path': ['v3', 'serp', 'google', 'organic', 'task_post'], 'data': {'api': 'serp', 'function': 'task_post', 'se': 'google', 'se_type': 'organic', 'keyword': 'test business', 'location_code': 2840, 'language_code': 'en', 'device': 'desktop', 'os': 'windows'}, 'result': None}]}
+2025-08-21 22:03:08,018 - __main__ - INFO - 
+Testing endpoint: https://api.dataforseo.com/v3/serp/google/organic/task_get/regular
+2025-08-21 22:03:08,131 - __main__ - INFO - Status code: 404
+2025-08-21 22:03:08,131 - __main__ - INFO - Response data: {'version': '0.1.20250812', 'status_code': 40400, 'status_message': 'Not Found.', 'time': '0 sec.', 'cost': 0, 'tasks_count': 0, 'tasks_error': 0, 'tasks': None}

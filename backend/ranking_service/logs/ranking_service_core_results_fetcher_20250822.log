@@ -1,0 +1,116 @@
+2025-08-22 08:48:59,294 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 08:51:49,868 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 08:51:50,016 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 08:57:35,416 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 08:57:35,429 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 09:01:32,443 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 09:01:33,642 - ranking_service_core_results_fetcher - INFO - Getting all results for 9 tasks
+2025-08-22 09:01:33,642 - ranking_service_core_results_fetcher - INFO - Starting to poll 9 tasks...
+2025-08-22 09:01:33,642 - ranking_service_core_results_fetcher - INFO - Will poll every 120 seconds for up to 600 seconds
+2025-08-22 09:01:33,644 - ranking_service_core_results_fetcher - INFO - --- Poll #1: Checking 9 pending tasks at 09:01:33 ---
+2025-08-22 09:01:40,444 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 9
+2025-08-22 09:01:40,444 - ranking_service_core_results_fetcher - INFO -    Time remaining: 593 seconds
+2025-08-22 09:03:40,454 - ranking_service_core_results_fetcher - INFO - --- Poll #2: Checking 9 pending tasks at 09:03:40 ---
+2025-08-22 09:03:48,208 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 09:03:48,343 - ranking_service_core_results_fetcher - INFO -    Time remaining: 465 seconds
+2025-08-22 09:05:48,602 - ranking_service_core_results_fetcher - INFO - --- Poll #3: Checking 5 pending tasks at 09:05:48 ---
+2025-08-22 09:05:52,407 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 09:05:52,410 - ranking_service_core_results_fetcher - INFO -    Time remaining: 341 seconds
+2025-08-22 09:07:52,432 - ranking_service_core_results_fetcher - INFO - --- Poll #4: Checking 5 pending tasks at 09:07:52 ---
+2025-08-22 09:07:56,248 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 09:07:56,276 - ranking_service_core_results_fetcher - INFO -    Time remaining: 217 seconds
+2025-08-22 09:09:56,345 - ranking_service_core_results_fetcher - INFO - --- Poll #5: Checking 5 pending tasks at 09:09:56 ---
+2025-08-22 09:10:01,368 - ranking_service_core_results_fetcher - INFO - === Final Results ===
+2025-08-22 10:50:29,240 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 10:50:30,040 - ranking_service_core_results_fetcher - INFO - Getting all results for 9 tasks
+2025-08-22 10:50:30,040 - ranking_service_core_results_fetcher - INFO - Starting to poll 9 tasks...
+2025-08-22 10:50:30,040 - ranking_service_core_results_fetcher - INFO - Will poll every 120 seconds for up to 3600 seconds
+2025-08-22 10:50:30,040 - ranking_service_core_results_fetcher - INFO - --- Poll #1: Checking 9 pending tasks at 10:50:30 ---
+2025-08-22 10:50:33,720 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 9
+2025-08-22 10:50:33,725 - ranking_service_core_results_fetcher - INFO -    Time remaining: 3596 seconds
+2025-08-22 10:52:33,752 - ranking_service_core_results_fetcher - INFO - --- Poll #2: Checking 9 pending tasks at 10:52:33 ---
+2025-08-22 10:52:37,798 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 6
+2025-08-22 10:52:37,800 - ranking_service_core_results_fetcher - INFO -    Time remaining: 3472 seconds
+2025-08-22 10:54:37,810 - ranking_service_core_results_fetcher - INFO - --- Poll #3: Checking 6 pending tasks at 10:54:37 ---
+2025-08-22 10:54:40,350 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 10:54:40,350 - ranking_service_core_results_fetcher - INFO -    Time remaining: 3349 seconds
+2025-08-22 10:56:40,364 - ranking_service_core_results_fetcher - INFO - --- Poll #4: Checking 5 pending tasks at 10:56:40 ---
+2025-08-22 10:56:42,734 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 10:56:42,734 - ranking_service_core_results_fetcher - INFO -    Time remaining: 3227 seconds
+2025-08-22 10:58:42,746 - ranking_service_core_results_fetcher - INFO - --- Poll #5: Checking 5 pending tasks at 10:58:42 ---
+2025-08-22 10:58:45,063 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 10:58:45,063 - ranking_service_core_results_fetcher - INFO -    Time remaining: 3104 seconds
+2025-08-22 11:00:45,075 - ranking_service_core_results_fetcher - INFO - --- Poll #6: Checking 5 pending tasks at 11:00:45 ---
+2025-08-22 11:00:47,243 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:00:47,248 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2982 seconds
+2025-08-22 11:02:47,260 - ranking_service_core_results_fetcher - INFO - --- Poll #7: Checking 5 pending tasks at 11:02:47 ---
+2025-08-22 11:02:49,742 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:02:49,744 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2860 seconds
+2025-08-22 11:04:49,760 - ranking_service_core_results_fetcher - INFO - --- Poll #8: Checking 5 pending tasks at 11:04:49 ---
+2025-08-22 11:04:51,947 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:04:51,947 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2738 seconds
+2025-08-22 11:06:51,958 - ranking_service_core_results_fetcher - INFO - --- Poll #9: Checking 5 pending tasks at 11:06:51 ---
+2025-08-22 11:06:54,122 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:06:54,122 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2615 seconds
+2025-08-22 11:08:54,132 - ranking_service_core_results_fetcher - INFO - --- Poll #10: Checking 5 pending tasks at 11:08:54 ---
+2025-08-22 11:08:56,379 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:08:56,387 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2493 seconds
+2025-08-22 11:10:56,394 - ranking_service_core_results_fetcher - INFO - --- Poll #11: Checking 5 pending tasks at 11:10:56 ---
+2025-08-22 11:10:59,487 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:10:59,525 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2370 seconds
+2025-08-22 11:12:59,550 - ranking_service_core_results_fetcher - INFO - --- Poll #12: Checking 5 pending tasks at 11:12:59 ---
+2025-08-22 11:13:01,769 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:13:01,769 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2248 seconds
+2025-08-22 11:15:01,784 - ranking_service_core_results_fetcher - INFO - --- Poll #13: Checking 5 pending tasks at 11:15:01 ---
+2025-08-22 11:15:04,417 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:15:04,418 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2125 seconds
+2025-08-22 11:17:04,430 - ranking_service_core_results_fetcher - INFO - --- Poll #14: Checking 5 pending tasks at 11:17:04 ---
+2025-08-22 11:17:06,511 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:17:06,512 - ranking_service_core_results_fetcher - INFO -    Time remaining: 2003 seconds
+2025-08-22 11:19:06,516 - ranking_service_core_results_fetcher - INFO - --- Poll #15: Checking 5 pending tasks at 11:19:06 ---
+2025-08-22 11:19:08,660 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:19:08,661 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1881 seconds
+2025-08-22 11:21:08,664 - ranking_service_core_results_fetcher - INFO - --- Poll #16: Checking 5 pending tasks at 11:21:08 ---
+2025-08-22 11:21:11,117 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:21:11,229 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1759 seconds
+2025-08-22 11:23:11,308 - ranking_service_core_results_fetcher - INFO - --- Poll #17: Checking 5 pending tasks at 11:23:11 ---
+2025-08-22 11:23:13,867 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:23:13,867 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1636 seconds
+2025-08-22 11:25:13,868 - ranking_service_core_results_fetcher - INFO - --- Poll #18: Checking 5 pending tasks at 11:25:13 ---
+2025-08-22 11:25:16,098 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:25:16,115 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1514 seconds
+2025-08-22 11:27:16,159 - ranking_service_core_results_fetcher - INFO - --- Poll #19: Checking 5 pending tasks at 11:27:16 ---
+2025-08-22 11:27:18,391 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:27:18,392 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1391 seconds
+2025-08-22 11:29:18,396 - ranking_service_core_results_fetcher - INFO - --- Poll #20: Checking 5 pending tasks at 11:29:18 ---
+2025-08-22 11:29:20,791 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:29:20,936 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1269 seconds
+2025-08-22 11:31:20,964 - ranking_service_core_results_fetcher - INFO - --- Poll #21: Checking 5 pending tasks at 11:31:20 ---
+2025-08-22 11:31:23,141 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:31:23,142 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1146 seconds
+2025-08-22 11:33:23,149 - ranking_service_core_results_fetcher - INFO - --- Poll #22: Checking 5 pending tasks at 11:33:23 ---
+2025-08-22 11:33:25,298 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:33:25,299 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1024 seconds
+2025-08-22 11:35:25,311 - ranking_service_core_results_fetcher - INFO - --- Poll #23: Checking 5 pending tasks at 11:35:25 ---
+2025-08-22 11:35:27,514 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:35:27,515 - ranking_service_core_results_fetcher - INFO -    Time remaining: 902 seconds
+2025-08-22 11:37:27,527 - ranking_service_core_results_fetcher - INFO - --- Poll #24: Checking 5 pending tasks at 11:37:27 ---
+2025-08-22 11:37:29,707 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:37:29,708 - ranking_service_core_results_fetcher - INFO -    Time remaining: 780 seconds
+2025-08-22 11:39:29,710 - ranking_service_core_results_fetcher - INFO - --- Poll #25: Checking 5 pending tasks at 11:39:29 ---
+2025-08-22 11:39:32,098 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:39:32,099 - ranking_service_core_results_fetcher - INFO -    Time remaining: 658 seconds
+2025-08-22 11:41:32,101 - ranking_service_core_results_fetcher - INFO - --- Poll #26: Checking 5 pending tasks at 11:41:32 ---
+2025-08-22 11:41:34,224 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:41:34,224 - ranking_service_core_results_fetcher - INFO -    Time remaining: 535 seconds
+2025-08-22 11:43:34,231 - ranking_service_core_results_fetcher - INFO - --- Poll #27: Checking 5 pending tasks at 11:43:34 ---
+2025-08-22 11:43:36,393 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:43:36,394 - ranking_service_core_results_fetcher - INFO -    Time remaining: 413 seconds
+2025-08-22 11:45:36,401 - ranking_service_core_results_fetcher - INFO - --- Poll #28: Checking 5 pending tasks at 11:45:36 ---
+2025-08-22 11:45:38,677 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:45:38,679 - ranking_service_core_results_fetcher - INFO -    Time remaining: 291 seconds
+2025-08-22 11:47:38,686 - ranking_service_core_results_fetcher - INFO - --- Poll #29: Checking 5 pending tasks at 11:47:38 ---
+2025-08-22 11:47:40,848 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 5
+2025-08-22 11:47:40,848 - ranking_service_core_results_fetcher - INFO -    Time remaining: 169 seconds
+2025-08-22 11:49:40,855 - ranking_service_core_results_fetcher - INFO - --- Poll #30: Checking 5 pending tasks at 11:49:40 ---
+2025-08-22 11:49:48,555 - ranking_service_core_results_fetcher - INFO - === Final Results ===

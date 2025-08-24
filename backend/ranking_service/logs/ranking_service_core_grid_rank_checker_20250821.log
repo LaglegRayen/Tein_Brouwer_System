@@ -1,0 +1,42 @@
+2025-08-21 17:09:13,289 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-21 17:09:13,289 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-21 17:09:13,289 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-21 17:09:13,289 - ranking_service_core_grid_rank_checker - INFO - Running quick check for Pizza Restaurant NYC
+2025-08-21 17:09:13,289 - ranking_service_core_grid_rank_checker - INFO - Starting complete grid rank check workflow...
+2025-08-21 17:09:13,302 - ranking_service_core_grid_rank_checker - INFO - Creating grid rank check tasks for: Pizza Restaurant NYC
+2025-08-21 17:09:13,306 - ranking_service_core_grid_rank_checker - INFO - Business: Pizza Restaurant NYC
+2025-08-21 17:09:13,306 - ranking_service_core_grid_rank_checker - INFO - Center coordinates: 40.689199, -73.975035
+2025-08-21 17:09:13,308 - ranking_service_core_grid_rank_checker - INFO - Generated 9 grid points in 5.0km radius
+2025-08-21 17:09:14,081 - ranking_service_core_grid_rank_checker - INFO - Successfully created 9 tasks
+2025-08-21 17:09:14,081 - ranking_service_core_grid_rank_checker - INFO - Starting to fetch results for 9 tasks...
+2025-08-21 17:11:39,723 - ranking_service_core_grid_rank_checker - INFO - Results fetching completed
+2025-08-21 17:11:39,723 - ranking_service_core_grid_rank_checker - INFO - Grid rank check workflow completed successfully
+2025-08-21 17:11:41,727 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-21 17:11:41,728 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-21 17:11:41,730 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-21 17:11:41,746 - ranking_service_core_grid_rank_checker - INFO - Starting complete grid rank check workflow...
+2025-08-21 17:11:41,747 - ranking_service_core_grid_rank_checker - INFO - Creating grid rank check tasks for: Coffee Shop Brooklyn
+2025-08-21 17:11:41,753 - ranking_service_core_grid_rank_checker - INFO - Business: Coffee Shop Brooklyn
+2025-08-21 17:11:41,754 - ranking_service_core_grid_rank_checker - INFO - Center coordinates: 40.692278, -73.96826
+2025-08-21 17:11:41,757 - ranking_service_core_grid_rank_checker - INFO - Generated 16 grid points in 3.0km radius
+2025-08-21 17:11:42,695 - ranking_service_core_grid_rank_checker - INFO - Successfully created 16 tasks
+2025-08-21 17:11:42,695 - ranking_service_core_grid_rank_checker - INFO - Starting to fetch results for 16 tasks...
+2025-08-21 17:14:21,487 - ranking_service_core_grid_rank_checker - INFO - Results fetching completed
+2025-08-21 17:14:21,491 - ranking_service_core_grid_rank_checker - INFO - Grid rank check workflow completed successfully
+2025-08-21 17:14:23,522 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-21 17:14:23,526 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-21 17:14:23,529 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-21 17:14:23,538 - ranking_service_core_grid_rank_checker - INFO - Creating grid rank check tasks for: Italian Restaurant Manhattan
+2025-08-21 17:14:23,539 - ranking_service_core_grid_rank_checker - INFO - Business: Italian Restaurant Manhattan
+2025-08-21 17:14:23,540 - ranking_service_core_grid_rank_checker - INFO - Center coordinates: 40.721311, -73.996891
+2025-08-21 17:14:23,544 - ranking_service_core_grid_rank_checker - INFO - Generated 9 grid points in 4.0km radius
+2025-08-21 17:14:27,541 - ranking_service_core_grid_rank_checker - INFO - Successfully created 9 tasks
+2025-08-21 17:14:27,557 - ranking_service_core_grid_rank_checker - INFO - Getting status for 9 tasks
+2025-08-21 17:14:39,291 - ranking_service_core_grid_rank_checker - INFO - Starting to fetch results for 9 tasks...
+2025-08-21 17:16:08,048 - ranking_service_core_grid_rank_checker - INFO - Results fetching completed
+2025-08-21 17:16:10,063 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-21 17:16:10,069 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-21 17:16:10,069 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-21 19:51:26,051 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-21 19:51:26,075 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-21 19:51:26,097 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete

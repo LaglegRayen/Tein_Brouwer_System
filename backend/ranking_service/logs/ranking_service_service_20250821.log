@@ -1,0 +1,19 @@
+2025-08-21 17:09:13,289 - ranking_service_service - INFO - RankingService initialized
+2025-08-21 17:09:13,289 - ranking_service_service - INFO - Quick check requested for Pizza Restaurant NYC at 40.689199, -73.975035
+2025-08-21 17:11:39,723 - ranking_service_service - INFO - Quick check completed successfully
+2025-08-21 17:11:41,730 - ranking_service_service - INFO - RankingService initialized
+2025-08-21 17:11:41,734 - ranking_service_service - INFO - Advanced check requested for Coffee Shop Brooklyn
+2025-08-21 17:11:41,735 - ranking_service_service - INFO - Parameters: grid=4x4, radius=3.0km
+2025-08-21 17:14:21,491 - ranking_service_service - INFO - Advanced check completed successfully
+2025-08-21 17:14:23,532 - ranking_service_service - INFO - RankingService initialized
+2025-08-21 17:14:23,537 - ranking_service_service - INFO - Creating tasks for Italian Restaurant Manhattan
+2025-08-21 17:14:27,542 - ranking_service_service - INFO - Created 9 tasks successfully
+2025-08-21 17:14:27,553 - ranking_service_service - INFO - Checking status for 9 tasks
+2025-08-21 17:14:39,288 - ranking_service_service - INFO - Status check completed
+2025-08-21 17:14:39,290 - ranking_service_service - INFO - Getting results for 9 tasks
+2025-08-21 17:16:08,052 - ranking_service_service - INFO - Results retrieved successfully
+2025-08-21 17:16:10,069 - ranking_service_service - INFO - RankingService initialized
+2025-08-21 19:51:26,103 - ranking_service_service - INFO - RankingService initialized
+2025-08-21 19:51:26,113 - ranking_service_service - INFO - Quick check requested for restaurant at 36.8301732, 10.0949113
+2025-08-21 19:51:26,858 - ranking_service_service - ERROR - Failed to connect to DataForSEO API
+2025-08-21 19:51:26,861 - ranking_service_service - ERROR - Connection error in quick check: Could not connect to DataForSEO API. Please check your internet connection and API status.

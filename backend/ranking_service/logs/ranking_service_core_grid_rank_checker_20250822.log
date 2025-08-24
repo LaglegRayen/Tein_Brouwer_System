@@ -1,0 +1,29 @@
+2025-08-22 08:48:59,292 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-22 08:48:59,293 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-22 08:48:59,294 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-22 08:51:49,484 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-22 08:51:49,703 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-22 08:51:49,919 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-22 08:57:35,414 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-22 08:57:35,415 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-22 08:57:35,427 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-22 09:01:31,860 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-22 09:01:32,307 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-22 09:01:32,466 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-22 09:01:32,678 - ranking_service_core_grid_rank_checker - INFO - Creating grid rank check tasks for: test restaurant
+2025-08-22 09:01:32,687 - ranking_service_core_grid_rank_checker - INFO - Business: test restaurant
+2025-08-22 09:01:32,696 - ranking_service_core_grid_rank_checker - INFO - Center coordinates: 36.8301732, 10.0949113
+2025-08-22 09:01:32,713 - ranking_service_core_grid_rank_checker - INFO - Generated 9 grid points in 5.0km radius
+2025-08-22 09:01:33,638 - ranking_service_core_grid_rank_checker - INFO - Successfully created 9 tasks
+2025-08-22 09:01:33,641 - ranking_service_core_grid_rank_checker - INFO - Starting to fetch results for 9 tasks...
+2025-08-22 09:10:02,801 - ranking_service_core_grid_rank_checker - INFO - Results fetching completed
+2025-08-22 10:50:29,238 - ranking_service_core_grid_rank_checker - INFO - Initializing GridRankChecker...
+2025-08-22 10:50:29,239 - ranking_service_core_grid_rank_checker - INFO - Initialized with username: rayen.lagleg@aimationation.com
+2025-08-22 10:50:29,240 - ranking_service_core_grid_rank_checker - INFO - GridRankChecker initialization complete
+2025-08-22 10:50:29,354 - ranking_service_core_grid_rank_checker - INFO - Creating grid rank check tasks for: test restaurant
+2025-08-22 10:50:29,354 - ranking_service_core_grid_rank_checker - INFO - Business: test restaurant
+2025-08-22 10:50:29,354 - ranking_service_core_grid_rank_checker - INFO - Center coordinates: 36.8301732, 10.0949113
+2025-08-22 10:50:29,355 - ranking_service_core_grid_rank_checker - INFO - Generated 9 grid points in 5.0km radius
+2025-08-22 10:50:30,020 - ranking_service_core_grid_rank_checker - INFO - Successfully created 9 tasks
+2025-08-22 10:50:30,039 - ranking_service_core_grid_rank_checker - INFO - Starting to fetch results for 9 tasks...
+2025-08-22 11:49:48,578 - ranking_service_core_grid_rank_checker - INFO - Results fetching completed

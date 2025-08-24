@@ -1,0 +1,211 @@
+INFO 2025-08-21 18:49:25,279 autoreload 4176 36968 Watching for file changes with StatReloader
+INFO 2025-08-21 18:49:34,816 autoreload 30700 20372 Watching for file changes with StatReloader
+INFO 2025-08-21 18:50:15,629 basehttp 4176 11324 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:50:15,801 basehttp 4176 11324 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:50:15,870 basehttp 4176 16404 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 18:50:15,997 basehttp 4176 11324 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 18:53:01,278 basehttp 4176 25472 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:53:01,414 basehttp 4176 25472 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:55:03,963 autoreload 4176 36968 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\service.py changed, reloading.
+INFO 2025-08-21 18:55:06,771 autoreload 10272 37876 Watching for file changes with StatReloader
+INFO 2025-08-21 18:55:13,279 autoreload 10272 37876 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\service.py changed, reloading.
+INFO 2025-08-21 18:55:15,024 autoreload 33648 8584 Watching for file changes with StatReloader
+INFO 2025-08-21 18:55:35,118 basehttp 33648 16012 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:55:35,272 basehttp 33648 16012 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:57:25,091 autoreload 12948 6332 Watching for file changes with StatReloader
+INFO 2025-08-21 18:59:50,998 basehttp 33648 28148 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:59:51,074 basehttp 33648 28148 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 18:59:59,110 basehttp 33648 27812 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:00:11,855 basehttp 33648 24508 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:01:56,989 basehttp 33648 33620 "OPTIONS /api/ranking/quick-check/ HTTP/1.1" 200 0
+WARNING 2025-08-21 19:01:57,554 log 33648 19572 Forbidden: /api/ranking/quick-check/
+WARNING 2025-08-21 19:01:57,556 basehttp 33648 19572 "POST /api/ranking/quick-check/ HTTP/1.1" 403 108
+INFO 2025-08-21 19:04:06,990 basehttp 33648 9480 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:04:16,594 basehttp 33648 9480 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:04:27,639 basehttp 33648 9480 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:04:27,870 basehttp 33648 18700 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:04:48,667 basehttp 33648 10376 "OPTIONS /api/accounts/check-auth/ HTTP/1.1" 200 0
+INFO 2025-08-21 19:04:49,133 basehttp 33648 18700 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:05:01,940 basehttp 33648 16772 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+WARNING 2025-08-21 19:18:30,000 log 33648 32972 Forbidden: /api/ranking/quick-check/
+WARNING 2025-08-21 19:18:30,002 basehttp 33648 32972 "POST /api/ranking/quick-check/ HTTP/1.1" 403 108
+INFO 2025-08-21 19:19:11,257 autoreload 33648 8584 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 19:19:14,018 autoreload 33516 8820 Watching for file changes with StatReloader
+INFO 2025-08-21 19:19:25,885 autoreload 33516 8820 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-21 19:19:29,124 autoreload 26556 19912 Watching for file changes with StatReloader
+INFO 2025-08-21 19:19:48,054 basehttp 26556 5012 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:19:57,504 basehttp 26556 5012 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:19:57,660 basehttp 26556 7756 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:19:57,755 basehttp 26556 5012 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:19:57,860 basehttp 26556 7756 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:20:05,911 basehttp 26556 7756 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+WARNING 2025-08-21 19:20:06,255 log 26556 7756 Forbidden: /api/ranking/quick-check/
+WARNING 2025-08-21 19:20:06,259 basehttp 26556 7756 "POST /api/ranking/quick-check/ HTTP/1.1" 403 46
+WARNING 2025-08-21 19:20:07,397 log 26556 7756 Forbidden: /api/ranking/quick-check/
+WARNING 2025-08-21 19:20:07,423 basehttp 26556 7756 "POST /api/ranking/quick-check/ HTTP/1.1" 403 46
+INFO 2025-08-21 19:21:07,530 basehttp 26556 26744 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:21:08,425 basehttp 26556 21408 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:21:24,903 autoreload 26556 19912 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-21 19:21:28,363 autoreload 9180 40204 Watching for file changes with StatReloader
+WARNING 2025-08-21 19:25:16,728 log 9180 15128 Forbidden: /api/ranking/quick-check/
+WARNING 2025-08-21 19:25:16,736 basehttp 9180 15128 "POST /api/ranking/quick-check/ HTTP/1.1" 403 46
+INFO 2025-08-21 19:25:24,849 autoreload 9180 40204 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-21 19:25:28,471 autoreload 36600 22844 Watching for file changes with StatReloader
+INFO 2025-08-21 19:25:37,063 autoreload 36600 22844 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 19:25:38,879 autoreload 20692 15308 Watching for file changes with StatReloader
+INFO 2025-08-21 19:25:55,005 basehttp 20692 11700 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:26:07,631 basehttp 20692 11700 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:26:15,168 autoreload 20692 15308 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 19:26:18,105 autoreload 40456 23284 Watching for file changes with StatReloader
+INFO 2025-08-21 19:26:28,721 autoreload 40456 23284 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 19:26:34,595 autoreload 29936 19920 Watching for file changes with StatReloader
+INFO 2025-08-21 19:26:54,921 autoreload 29936 19920 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-21 19:26:57,814 autoreload 9980 34224 Watching for file changes with StatReloader
+INFO 2025-08-21 19:32:22,054 autoreload 33928 17256 Watching for file changes with StatReloader
+INFO 2025-08-21 19:32:33,314 basehttp 33928 14972 "OPTIONS /api/dashboard/data/ HTTP/1.1" 200 0
+INFO 2025-08-21 19:32:33,314 basehttp 33928 36304 "OPTIONS /api/dashboard/data/ HTTP/1.1" 200 0
+INFO 2025-08-21 19:32:33,747 basehttp 33928 38284 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:32:33,893 basehttp 33928 38284 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:32:37,627 basehttp 33928 13440 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:32:37,788 basehttp 33928 13440 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:32:41,645 basehttp 33928 13440 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:32:41,812 basehttp 33928 3860 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:33:45,851 basehttp 33928 28604 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:33:46,005 basehttp 33928 40012 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+INFO 2025-08-21 19:33:50,749 basehttp 33928 40012 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:33:50,879 basehttp 33928 28604 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:34:59,618 basehttp 33928 28604 "GET /api/accounts/check-auth/ HTTP/1.1" 200 139
+WARNING 2025-08-21 19:35:46,004 log 33928 28604 Forbidden: /api/ranking/quick-check/
+WARNING 2025-08-21 19:35:46,006 basehttp 33928 28604 "POST /api/ranking/quick-check/ HTTP/1.1" 403 46
+INFO 2025-08-21 19:36:21,762 autoreload 33928 17256 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-21 19:36:27,246 autoreload 34632 18844 Watching for file changes with StatReloader
+INFO 2025-08-21 19:36:55,871 autoreload 34632 18844 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 19:37:05,293 autoreload 20620 6544 Watching for file changes with StatReloader
+INFO 2025-08-21 19:38:02,862 basehttp 20620 672 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-21 19:38:02,896 basehttp 20620 19920 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+WARNING 2025-08-21 19:38:03,938 log 20620 13024 Not Found: /api/get-csrf-token/
+WARNING 2025-08-21 19:38:03,942 basehttp 20620 13024 "GET /api/get-csrf-token/ HTTP/1.1" 404 2605
+WARNING 2025-08-21 19:38:03,972 log 20620 33204 Not Found: /api/get-csrf-token/
+WARNING 2025-08-21 19:38:03,974 basehttp 20620 33204 "GET /api/get-csrf-token/ HTTP/1.1" 404 2605
+INFO 2025-08-21 19:38:31,105 autoreload 20620 6544 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\urls.py changed, reloading.
+INFO 2025-08-21 19:38:34,619 autoreload 25880 3448 Watching for file changes with StatReloader
+INFO 2025-08-21 19:38:58,897 autoreload 25880 3448 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-21 19:39:03,118 autoreload 15088 16900 Watching for file changes with StatReloader
+INFO 2025-08-21 19:39:12,206 autoreload 15088 16900 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\views.py changed, reloading.
+INFO 2025-08-21 19:39:17,312 autoreload 11504 5548 Watching for file changes with StatReloader
+INFO 2025-08-21 19:51:12,331 autoreload 20632 17652 Watching for file changes with StatReloader
+INFO 2025-08-21 19:51:18,381 basehttp 20632 40760 "OPTIONS /api/accounts/login/ HTTP/1.1" 200 0
+INFO 2025-08-21 19:51:19,334 basehttp 20632 11548 "POST /api/accounts/login/ HTTP/1.1" 200 147
+INFO 2025-08-21 19:51:19,664 basehttp 20632 11548 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:51:19,815 basehttp 20632 28580 "GET /api/dashboard/data/ HTTP/1.1" 200 1461
+INFO 2025-08-21 19:51:21,419 basehttp 20632 28580 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-21 19:51:21,432 basehttp 20632 11548 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+ERROR 2025-08-21 19:51:26,868 log 20632 11548 Internal Server Error: /api/ranking/quick-check/
+ERROR 2025-08-21 19:51:26,870 basehttp 20632 11548 "POST /api/ranking/quick-check/ HTTP/1.1" 500 174
+INFO 2025-08-21 20:00:38,679 autoreload 20632 17652 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 20:00:40,839 autoreload 13120 1468 Watching for file changes with StatReloader
+INFO 2025-08-21 20:01:03,562 autoreload 13120 1468 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 20:01:06,372 autoreload 35112 37004 Watching for file changes with StatReloader
+INFO 2025-08-21 21:48:18,745 basehttp 35112 37180 "OPTIONS /api/accounts/logout/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:48:19,242 basehttp 35112 37144 "POST /api/accounts/logout/ HTTP/1.1" 200 31
+INFO 2025-08-21 21:48:20,266 basehttp 35112 37180 "OPTIONS /api/accounts/check-auth/ HTTP/1.1" 200 0
+WARNING 2025-08-21 21:48:20,279 log 35112 37144 Unauthorized: /api/accounts/check-auth/
+WARNING 2025-08-21 21:48:20,280 basehttp 35112 37144 "GET /api/accounts/check-auth/ HTTP/1.1" 401 58
+INFO 2025-08-21 21:48:46,986 basehttp 35112 30452 "OPTIONS /api/accounts/pricing/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:48:46,990 basehttp 35112 37180 "OPTIONS /api/accounts/pricing/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:48:47,003 basehttp 35112 37144 "GET /api/accounts/pricing/ HTTP/1.1" 200 411
+INFO 2025-08-21 21:48:47,012 basehttp 35112 24404 "GET /api/accounts/pricing/ HTTP/1.1" 200 411
+INFO 2025-08-21 21:48:52,559 basehttp 35112 37180 "OPTIONS /api/accounts/signup/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:48:55,627 basehttp 35112 24404 "POST /api/accounts/signup/ HTTP/1.1" 201 161
+INFO 2025-08-21 21:48:55,742 basehttp 35112 37180 "OPTIONS /api/dashboard/data/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:48:55,767 basehttp 35112 30452 "OPTIONS /api/dashboard/data/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:48:55,861 basehttp 35112 24404 "GET /api/dashboard/data/ HTTP/1.1" 200 1466
+INFO 2025-08-21 21:48:55,950 basehttp 35112 37144 "GET /api/dashboard/data/ HTTP/1.1" 200 1466
+INFO 2025-08-21 21:49:01,572 basehttp 35112 37180 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:49:01,578 basehttp 35112 30452 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-21 21:49:01,588 basehttp 35112 37144 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-21 21:49:01,599 basehttp 35112 24404 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-21 21:55:53,769 autoreload 35112 37004 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\saas_project\settings.py changed, reloading.
+INFO 2025-08-21 21:55:56,284 autoreload 9916 22000 Watching for file changes with StatReloader
+INFO 2025-08-21 21:56:06,892 autoreload 9916 22000 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 21:56:08,734 autoreload 19676 16896 Watching for file changes with StatReloader
+INFO 2025-08-21 21:56:17,100 autoreload 19676 16896 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 21:56:17,981 autoreload 14700 18264 Watching for file changes with StatReloader
+INFO 2025-08-21 22:01:21,771 autoreload 14700 18264 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 22:01:23,382 autoreload 7112 9020 Watching for file changes with StatReloader
+INFO 2025-08-21 22:01:38,436 autoreload 7112 9020 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 22:01:39,949 autoreload 35328 17048 Watching for file changes with StatReloader
+INFO 2025-08-21 22:02:12,368 autoreload 35328 17048 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 22:02:13,614 autoreload 6188 12012 Watching for file changes with StatReloader
+INFO 2025-08-21 22:02:23,835 autoreload 6188 12012 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\core\config.py changed, reloading.
+INFO 2025-08-21 22:02:25,170 autoreload 19244 41260 Watching for file changes with StatReloader
+INFO 2025-08-22 08:59:09,227 autoreload 19244 41260 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\service.py changed, reloading.
+INFO 2025-08-22 08:59:27,028 autoreload 17008 14012 Watching for file changes with StatReloader
+INFO 2025-08-22 09:01:45,608 basehttp 17008 22372 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-22 09:01:45,611 basehttp 17008 19628 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-22 09:01:45,985 basehttp 17008 21464 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 09:01:45,993 basehttp 17008 21464 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 10:00:16,529 autoreload 17008 14012 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\service.py changed, reloading.
+INFO 2025-08-22 10:00:18,682 autoreload 20168 28264 Watching for file changes with StatReloader
+INFO 2025-08-22 10:00:30,112 autoreload 20168 28264 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\service.py changed, reloading.
+INFO 2025-08-22 10:00:31,114 autoreload 20320 18208 Watching for file changes with StatReloader
+INFO 2025-08-22 11:22:03,058 autoreload 20320 18208 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\service.py changed, reloading.
+INFO 2025-08-22 11:22:09,151 autoreload 35964 20196 Watching for file changes with StatReloader
+INFO 2025-08-22 11:24:14,581 autoreload 35964 20196 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-22 11:24:16,262 autoreload 26516 2244 Watching for file changes with StatReloader
+INFO 2025-08-22 11:29:56,792 autoreload 26516 2244 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\urls.py changed, reloading.
+INFO 2025-08-22 11:29:58,668 autoreload 28588 31592 Watching for file changes with StatReloader
+INFO 2025-08-22 11:30:09,311 autoreload 28588 31592 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-22 11:30:10,674 autoreload 19124 11524 Watching for file changes with StatReloader
+INFO 2025-08-22 11:30:32,455 autoreload 19124 11524 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-22 11:30:34,247 autoreload 11036 12352 Watching for file changes with StatReloader
+INFO 2025-08-22 11:36:40,243 basehttp 11036 24756 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-22 11:36:40,245 basehttp 11036 1612 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-22 11:36:40,572 basehttp 11036 40072 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 11:36:40,577 basehttp 11036 40072 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 11:38:54,066 autoreload 11036 12352 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-22 11:38:56,133 autoreload 16144 31208 Watching for file changes with StatReloader
+INFO 2025-08-22 11:39:16,802 autoreload 16144 31208 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\ranking_service\api\views.py changed, reloading.
+INFO 2025-08-22 11:39:18,578 autoreload 34444 11528 Watching for file changes with StatReloader
+INFO 2025-08-22 11:40:23,461 basehttp 34444 5408 "OPTIONS /api/ranking/history/ HTTP/1.1" 200 0
+INFO 2025-08-22 11:40:23,466 basehttp 34444 11384 "OPTIONS /api/ranking/history/ HTTP/1.1" 200 0
+INFO 2025-08-22 11:40:23,489 basehttp 34444 19244 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 11:40:23,656 basehttp 34444 19244 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-22 11:40:23,666 basehttp 34444 19244 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 11:40:23,773 basehttp 34444 19244 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-22 11:40:25,559 basehttp 34444 19244 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-22 11:40:25,611 basehttp 34444 19244 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 11:40:25,616 basehttp 34444 22668 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 11:40:25,795 basehttp 34444 5448 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-22 11:40:25,802 basehttp 34444 18692 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-22 11:40:25,882 basehttp 34444 5448 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-22 11:40:29,240 basehttp 34444 39220 "OPTIONS /api/ranking/history/?business_name=restaurant HTTP/1.1" 200 0
+INFO 2025-08-22 11:40:29,628 basehttp 34444 15684 "GET /api/ranking/history/?business_name=restaurant HTTP/1.1" 200 14
+INFO 2025-08-22 11:43:39,069 autoreload 34444 11528 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\accounts\models.py changed, reloading.
+INFO 2025-08-22 11:43:40,619 autoreload 39680 35944 Watching for file changes with StatReloader
+INFO 2025-08-22 11:44:58,994 autoreload 39680 35944 C:\Users\rima lagleg\Desktop\ML DL\Tein Brouwer GBP Management Project\backend\accounts\models.py changed, reloading.
+INFO 2025-08-22 11:45:00,825 autoreload 9316 40712 Watching for file changes with StatReloader
+INFO 2025-08-22 11:55:46,006 basehttp 9316 21232 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-22 11:55:46,502 basehttp 9316 21232 "GET /api/dashboard/data/ HTTP/1.1" 200 1466
+INFO 2025-08-22 11:55:47,087 basehttp 9316 23156 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-22 11:55:47,156 basehttp 9316 21232 "GET /api/dashboard/data/ HTTP/1.1" 200 1466
+INFO 2025-08-22 12:12:38,514 basehttp 9316 10460 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-22 12:12:38,641 basehttp 9316 27216 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-22 12:12:38,646 basehttp 9316 10460 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 12:12:38,656 basehttp 9316 10460 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-22 12:12:38,758 basehttp 9316 27216 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-22 12:12:38,848 basehttp 9316 10460 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-23 09:36:53,330 basehttp 9316 39564 "OPTIONS /api/dashboard/data/ HTTP/1.1" 200 0
+INFO 2025-08-23 09:36:53,334 basehttp 9316 18240 "OPTIONS /api/dashboard/data/ HTTP/1.1" 200 0
+INFO 2025-08-23 09:36:53,771 basehttp 9316 2796 "GET /api/dashboard/data/ HTTP/1.1" 200 1466
+INFO 2025-08-23 09:36:53,972 basehttp 9316 2796 "GET /api/dashboard/data/ HTTP/1.1" 200 1466
+INFO 2025-08-23 09:50:37,514 basehttp 9316 29392 "OPTIONS /api/ranking/history/ HTTP/1.1" 200 0
+INFO 2025-08-23 09:50:37,516 basehttp 9316 37176 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-23 09:50:37,517 basehttp 9316 12092 "OPTIONS /api/get-csrf-token/ HTTP/1.1" 200 0
+INFO 2025-08-23 09:50:37,525 basehttp 9316 29972 "OPTIONS /api/ranking/history/ HTTP/1.1" 200 0
+INFO 2025-08-23 09:50:37,865 basehttp 9316 14484 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-23 09:50:37,870 basehttp 9316 14484 "GET /api/get-csrf-token/ HTTP/1.1" 200 129
+INFO 2025-08-23 09:50:38,055 basehttp 9316 21572 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-23 09:50:38,224 basehttp 9316 14484 "GET /api/ranking/history/ HTTP/1.1" 200 14
+INFO 2025-08-24 11:02:07,752 basehttp 9316 44684 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144
+INFO 2025-08-24 11:02:07,874 basehttp 9316 15248 "GET /api/accounts/check-auth/ HTTP/1.1" 200 144

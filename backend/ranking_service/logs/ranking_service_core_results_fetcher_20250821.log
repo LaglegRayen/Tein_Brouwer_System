@@ -1,0 +1,34 @@
+2025-08-21 17:09:13,289 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 17:09:14,081 - ranking_service_core_results_fetcher - INFO - Getting all results for 9 tasks
+2025-08-21 17:09:14,081 - ranking_service_core_results_fetcher - INFO - Starting to poll 9 tasks...
+2025-08-21 17:09:14,081 - ranking_service_core_results_fetcher - INFO - Will poll every 120 seconds for up to 1800 seconds
+2025-08-21 17:09:14,084 - ranking_service_core_results_fetcher - INFO - --- Poll #1: Checking 9 pending tasks at 17:09:14 ---
+2025-08-21 17:09:18,263 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 9
+2025-08-21 17:09:18,264 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1795 seconds
+2025-08-21 17:11:18,274 - ranking_service_core_results_fetcher - INFO - --- Poll #2: Checking 9 pending tasks at 17:11:18 ---
+2025-08-21 17:11:39,696 - ranking_service_core_results_fetcher - INFO - === Final Results ===
+2025-08-21 17:11:41,728 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 17:11:42,697 - ranking_service_core_results_fetcher - INFO - Getting all results for 16 tasks
+2025-08-21 17:11:42,699 - ranking_service_core_results_fetcher - INFO - Starting to poll 16 tasks...
+2025-08-21 17:11:42,706 - ranking_service_core_results_fetcher - INFO - Will poll every 120 seconds for up to 1800 seconds
+2025-08-21 17:11:42,707 - ranking_service_core_results_fetcher - INFO - --- Poll #1: Checking 16 pending tasks at 17:11:42 ---
+2025-08-21 17:11:53,509 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 15
+2025-08-21 17:11:53,509 - ranking_service_core_results_fetcher - INFO -    Time remaining: 1789 seconds
+2025-08-21 17:13:53,536 - ranking_service_core_results_fetcher - INFO - --- Poll #2: Checking 15 pending tasks at 17:13:53 ---
+2025-08-21 17:14:20,936 - ranking_service_core_results_fetcher - INFO - === Final Results ===
+2025-08-21 17:14:23,528 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 17:14:27,558 - ranking_service_core_results_fetcher - INFO - Performing quick status check for 9 tasks
+2025-08-21 17:14:39,286 - ranking_service_core_results_fetcher - INFO - Quick status: {'completed': 0, 'failed': 0, 'pending': 9, 'unknown': 0, 'total': 9}
+2025-08-21 17:14:39,292 - ranking_service_core_results_fetcher - INFO - Getting all results for 9 tasks
+2025-08-21 17:14:39,293 - ranking_service_core_results_fetcher - INFO - Starting to poll 9 tasks...
+2025-08-21 17:14:39,294 - ranking_service_core_results_fetcher - INFO - Will poll every 30 seconds for up to 300 seconds
+2025-08-21 17:14:39,295 - ranking_service_core_results_fetcher - INFO - --- Poll #1: Checking 9 pending tasks at 17:14:39 ---
+2025-08-21 17:14:50,134 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 7
+2025-08-21 17:14:50,134 - ranking_service_core_results_fetcher - INFO -    Time remaining: 289 seconds
+2025-08-21 17:15:20,145 - ranking_service_core_results_fetcher - INFO - --- Poll #2: Checking 7 pending tasks at 17:15:20 ---
+2025-08-21 17:15:35,020 - ranking_service_core_results_fetcher - INFO -    Remaining tasks: 4
+2025-08-21 17:15:35,021 - ranking_service_core_results_fetcher - INFO -    Time remaining: 244 seconds
+2025-08-21 17:16:05,029 - ranking_service_core_results_fetcher - INFO - --- Poll #3: Checking 4 pending tasks at 17:16:05 ---
+2025-08-21 17:16:08,017 - ranking_service_core_results_fetcher - INFO - === Final Results ===
+2025-08-21 17:16:10,069 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 19:51:26,081 - ranking_service_core_results_fetcher - INFO - ResultsFetcher initialized for user: rayen.lagleg@aimationation.com

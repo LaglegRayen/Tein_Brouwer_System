@@ -1,0 +1,17 @@
+2025-08-22 08:48:59,293 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 08:51:49,799 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 08:57:35,415 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 09:01:32,355 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 09:01:32,721 - ranking_service_core_task_batcher - INFO - Creating and submitting tasks for 'test restaurant'
+2025-08-22 09:01:32,729 - ranking_service_core_task_batcher - INFO - Creating task payloads for 'test restaurant' at 36.8301732, 10.0949113
+2025-08-22 09:01:32,742 - ranking_service_core_task_batcher - INFO - Created 9 task payloads
+2025-08-22 09:01:32,742 - ranking_service_core_task_batcher - INFO - Submitting 9 tasks to DataForSEO API
+2025-08-22 09:01:33,635 - ranking_service_core_task_batcher - INFO - Successfully submitted 9 tasks
+2025-08-22 09:01:33,637 - ranking_service_core_task_batcher - INFO - Successfully created and submitted 9 tasks
+2025-08-22 10:50:29,239 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-22 10:50:29,355 - ranking_service_core_task_batcher - INFO - Creating and submitting tasks for 'test restaurant'
+2025-08-22 10:50:29,355 - ranking_service_core_task_batcher - INFO - Creating task payloads for 'test restaurant' at 36.8301732, 10.0949113
+2025-08-22 10:50:29,356 - ranking_service_core_task_batcher - INFO - Created 9 task payloads
+2025-08-22 10:50:29,356 - ranking_service_core_task_batcher - INFO - Submitting 9 tasks to DataForSEO API
+2025-08-22 10:50:30,019 - ranking_service_core_task_batcher - INFO - Successfully submitted 9 tasks
+2025-08-22 10:50:30,020 - ranking_service_core_task_batcher - INFO - Successfully created and submitted 9 tasks

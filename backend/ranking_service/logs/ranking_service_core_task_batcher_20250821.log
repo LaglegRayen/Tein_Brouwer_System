@@ -1,0 +1,23 @@
+2025-08-21 17:09:13,289 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 17:09:13,308 - ranking_service_core_task_batcher - INFO - Creating and submitting tasks for 'Pizza Restaurant NYC'
+2025-08-21 17:09:13,309 - ranking_service_core_task_batcher - INFO - Creating task payloads for 'Pizza Restaurant NYC' at 40.689199, -73.975035
+2025-08-21 17:09:13,310 - ranking_service_core_task_batcher - INFO - Created 9 task payloads
+2025-08-21 17:09:13,311 - ranking_service_core_task_batcher - INFO - Submitting 9 tasks to DataForSEO API
+2025-08-21 17:09:14,079 - ranking_service_core_task_batcher - INFO - Successfully submitted 9 tasks
+2025-08-21 17:09:14,081 - ranking_service_core_task_batcher - INFO - Successfully created and submitted 9 tasks
+2025-08-21 17:11:41,728 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 17:11:41,760 - ranking_service_core_task_batcher - INFO - Creating and submitting tasks for 'Coffee Shop Brooklyn'
+2025-08-21 17:11:41,760 - ranking_service_core_task_batcher - INFO - Creating task payloads for 'Coffee Shop Brooklyn' at 40.692278, -73.96826
+2025-08-21 17:11:41,760 - ranking_service_core_task_batcher - INFO - Created 16 task payloads
+2025-08-21 17:11:41,760 - ranking_service_core_task_batcher - INFO - Submitting 16 tasks to DataForSEO API
+2025-08-21 17:11:42,688 - ranking_service_core_task_batcher - INFO - Successfully submitted 16 tasks
+2025-08-21 17:11:42,693 - ranking_service_core_task_batcher - INFO - Successfully created and submitted 16 tasks
+2025-08-21 17:14:23,527 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 17:14:23,544 - ranking_service_core_task_batcher - INFO - Creating and submitting tasks for 'Italian Restaurant Manhattan'
+2025-08-21 17:14:23,554 - ranking_service_core_task_batcher - INFO - Creating task payloads for 'Italian Restaurant Manhattan' at 40.721311, -73.996891
+2025-08-21 17:14:23,554 - ranking_service_core_task_batcher - INFO - Created 9 task payloads
+2025-08-21 17:14:23,554 - ranking_service_core_task_batcher - INFO - Submitting 9 tasks to DataForSEO API
+2025-08-21 17:14:27,534 - ranking_service_core_task_batcher - INFO - Successfully submitted 9 tasks
+2025-08-21 17:14:27,538 - ranking_service_core_task_batcher - INFO - Successfully created and submitted 9 tasks
+2025-08-21 17:16:10,069 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
+2025-08-21 19:51:26,076 - ranking_service_core_task_batcher - INFO - TaskBatcher initialized for user: rayen.lagleg@aimationation.com
