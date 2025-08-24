@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SaaS Platform Connection Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .success { background-color: #d4edda; color: #155724; }
+        .error { background-color: #f8d7da; color: #721c24; }
+        .pending { background-color: #fff3cd; color: #856404; }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>🚀 SaaS Platform Connection Test</h1>
+        <p>Use this page to verify that both your frontend and backend servers are running correctly.</p>
+    </div>
+
+    <div class="card">
+        <h2>📡 Backend API Test</h2>
+        <button onclick="testBackend()">Test Django Backend</button>
+        <div id="backend-status" class="status pending">Click the button to test backend connection...</div>
+    </div>
+
+    <div class="card">
+        <h2>🌐 Frontend Test</h2>
+        <button onclick="testFrontend()">Test React Frontend</button>
+        <div id="frontend-status" class="status pending">Click the button to test frontend connection...</div>
+    </div>
+
+    <div class="card">
+        <h2>📋 Setup Instructions</h2>
+        <h3>Start the Servers:</h3>
+        <p><strong>Backend (Terminal 1):</strong></p>
+        <pre>cd backend
+python manage.py runserver --settings=saas_project.settings_sqlite</pre>
+        
+        <p><strong>Frontend (Terminal 2):</strong></p>
+        <pre>cd frontend
+node node_modules/react-scripts/bin/react-scripts.js start</pre>
+        
+        <h3>Access Points:</h3>
+        <ul>
+            <li><strong>Main App:</strong> <a href="http://localhost:3000" target="_blank">http://localhost:3000</a></li>
+            <li><strong>Backend API:</strong> <a href="http://localhost:8000/api/test/" target="_blank">http://localhost:8000/api/test/</a></li>
+            <li><strong>Admin Panel:</strong> <a href="http://localhost:8000/admin/" target="_blank">http://localhost:8000/admin/</a></li>
+        </ul>
+    </div>
+
+    <script>
+        async function testBackend() {
+            const statusDiv = document.getElementById('backend-status');
+            statusDiv.textContent = 'Testing backend connection...';
+            statusDiv.className = 'status pending';
+            
+            try {
+                const response = await fetch('http://localhost:8000/api/test/');
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    statusDiv.textContent = '✅ Backend is running! ' + data.message;
+                    statusDiv.className = 'status success';
+                } else {
+                    throw new Error('Unexpected response');
+                }
+            } catch (error) {
+                statusDiv.textContent = '❌ Backend connection failed. Make sure Django server is running on port 8000.';
+                statusDiv.className = 'status error';
+            }
+        }
+
+        async function testFrontend() {
+            const statusDiv = document.getElementById('frontend-status');
+            
+            try {
+                const response = await fetch('http://localhost:3000/');
+                
+                if (response.ok || response.status === 200) {
+                    statusDiv.textContent = '✅ Frontend is running! React server is accessible on port 3000.';
+                    statusDiv.className = 'status success';
+                } else {
+                    throw new Error('Frontend not accessible');
+                }
+            } catch (error) {
+                statusDiv.textContent = '❌ Frontend connection failed. Make sure React server is running on port 3000.';
+                statusDiv.className = 'status error';
+            }
+        }
+    </script>
+</body>
+</html> 
